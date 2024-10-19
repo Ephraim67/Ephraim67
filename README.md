@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Penetration Testing, Security Tool Development, and Exploit Research**
 
-- 👨‍💻 Explore my projects at [https://github.com/CloudknightOps?tab=repositories](https://github.com/CloudknightOps?tab=repositories)
+- 👨‍💻 Explore my projects at [https://github.com/Ephraim67?tab=repositories](https://github.com/Ephraim67?tab=repositories)
 
 - 📫 How to reach me **norbert.ephraim0@gmail.com**
 
