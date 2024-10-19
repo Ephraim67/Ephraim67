@@ -30,6 +30,7 @@
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Network Management tools and Configuration          | <a href="https://google.com">Macchanger</a>|
 | Penetration Testing Tools (Metasploit, Burp Suite)          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
