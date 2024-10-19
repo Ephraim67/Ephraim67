@@ -1,23 +1,23 @@
 <h1 align="left">Hi 👋, I'm Ephraim Norbert</h1>
-<h3 align="center">I'm a Cloud Native enthusiast, who is passionate about the software development lifecycle (SDLC), infrastructure automation, open-source software collaboration,and DevOps Practices.</h3>
+<h3 align="center">Offensive Security Engineer | Penetration Testing | Red Teaming | Security Research</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CloudknightOps&label=Profile%20views&color=0e75b6&style=flat" alt="CloudknightOps" /> </p>
 <p align="right"> <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" align="right" width="500"> </p>
 
 <p> 
 
-- 🔭 I’m currently working on **Cloud-Native Development with Openshift,Kubernetes and AWS**
+- 🔭 I’m currently working on **Offensive Security Tools Development and Red Team Operations**
 
-- 🌱 I’m currently learning **Containerized Applications on AWS**
+- 🌱 I’m currently learning **Advanced Exploit Development and Cloud Security Testing**
 
-- 👯 I’m looking to collaborate on **Devops, Application Dev using Microservices**
+- 👯 I’m looking to collaborate on **Penetration Testing, Security Tool Development, and Exploit Research**
 
-- 👨‍💻 All of my projects are available at [https://github.com/CloudknightOps?tab=repositories](https://github.com/CloudknightOps?tab=repositories)
+- 👨‍💻 Explore my projects at [https://github.com/CloudknightOps?tab=repositories](https://github.com/CloudknightOps?tab=repositories)
 
-- 📫 How to reach me **Uviekugbere.theo@gmail.com**
+- 📫 How to reach me **norbert.ephraim0@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/uviekugbere-theophilus/](https://www.linkedin.com/in/uviekugbere-theophilus/)
+- 📄 Check out my professional profile at [[https://www.linkedin.com/in/ephraim-norbert-33777920b/](https://www.linkedin.com/in/ephraim-norbert-33777920b/)]
 
-</P>
+</p>
 
 
 ## 🤝 Connect With Me 
@@ -30,12 +30,14 @@
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Penetration Testing Tools (Metasploit, Burp Suite)          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
+| Red Team Simulation and Adversary Emulation   | Red Team Operations|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Scripting (Python, Bash) for Security Automation | Security Automation Tools|
 
 
 ## 🔧 Technologies and Tools
