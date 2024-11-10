@@ -33,7 +33,7 @@
 | Network Management tools and Configuration          | <a href="https://github.com/Ephraim67/macchanger">Macchanger</a>|
 | Penetration Testing Tools (Metasploit, Burp Suite)          | <a href="https://github.com/Ephraim67/macchanger">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Forzebruta is a command-line tool for fuzzing URLs, useful for security testing and resource discovery. It supports multithreading, customizable headers, proxying, retry on failed requests, and status code filtering.         | <a href="https://github.com/Ephraim67/forzebruta">forzebruta</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Red Team Simulation and Adversary Emulation   | Red Team Operations|
