@@ -38,6 +38,7 @@
 | Case Management with TheHive                  | SOC Automation Lab|
 | Red Team Simulation and Adversary Emulation   | Red Team Operations|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Structured way to learn javascript from beginner to advance | <a href="https://github.com/Ephraim67/30daysjavascript_learning">Beginner javascript</a>|
 | Scripting (Python, Bash) for Security Automation | Security Automation Tools|
 
 
