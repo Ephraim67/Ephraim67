@@ -13,6 +13,8 @@
 
 - 👨‍💻 Explore my projects at [https://github.com/Ephraim67?tab=repositories](https://github.com/Ephraim67?tab=repositories)
 
+- 👨‍💻 Read more of my contents at https://medium.com/@Techspace4
+
 - 📫 How to reach me **norbert.ephraim0@gmail.com**
 
 - 📄 Check out my professional profile at [[https://www.linkedin.com/in/ephraim-norbert-33777920b/](https://www.linkedin.com/in/ephraim-norbert-33777920b/)]
