@@ -5,11 +5,23 @@
 
 <p> 
 
-- 🔭 I’m currently working on **Offensive Security Tools Development and Red Team Operations**
+### 🔍 About Me
+I'm a highly skilled **Cybersecurity & DevOps Engineer** with a strong focus on cloud security, automation, and infrastructure as code. I bring hands-on experience with tools like **AWS, Kubernetes, Terraform, and Linux** to secure and streamline infrastructure at scale.
 
-- 🌱 I’m currently learning **Advanced Exploit Development and Cloud Security Testing**
+I specialize in **penetration testing**, **cloud security strategies**, **incident response**, and **DevOps automation** building solutions that are as secure as they are efficient.
 
-- 👯 I’m looking to collaborate on **Penetration Testing, Security Tool Development, and Exploit Research**
+Beyond the command line, I’m passionate about teaching. I’ve successfully trained **100+ students** in cybersecurity, cloud, DevOps, and Linux through real-world labs and hands-on coaching who have sat for exams like ComptiA Network+, Security+ and CEH.
+
+
+### 🧰 What I Do Best
+
+- **Cybersecurity** – Penetration testing, incident response, threat detection, and cloud security architecture
+
+- **Cloud & DevOps** – AWS solutions, Kubernetes orchestration, Terraform infrastructure, CI/CD pipelines
+
+- **Linux & Automation** – Secure scripting (Bash/Python), system administration, Ansible deployment, server hardening
+
+- **Mentorship & Training** – Equipping the next-gen professionals with hands-on skills and real-world scenarios
 
 - 👨‍💻 Explore my projects at [https://github.com/Ephraim67?tab=repositories](https://github.com/Ephraim67?tab=repositories)
 
