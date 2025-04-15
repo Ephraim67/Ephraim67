@@ -35,6 +35,8 @@ Beyond the command line, I’m passionate about teaching. I’ve successfully tr
 <p align="center">
   <a href="https://https://www.linkedin.com/in/ephraim-norbert-33777920b"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25> </a>
   <a href="mailto:norbert.ephraim0@gmail."><img src="https://img.shields.io/badge/gmail-%EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+  <a href="https://https://x.com/ephraim_norbert"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" height=25/></a>
+
 
  ### 🔭 Current Projects
 
