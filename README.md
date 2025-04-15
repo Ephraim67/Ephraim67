@@ -25,22 +25,18 @@ Beyond the command line, I’m passionate about teaching. I’ve successfully tr
 
 - 👨‍💻 Explore my projects at [https://github.com/Ephraim67?tab=repositories](https://github.com/Ephraim67?tab=repositories)
 
-- 👨‍💻 Read more of my contents at https://medium.com/@Techspace4
-
-- 📫 How to reach me **norbert.ephraim0@gmail.com**
-
 - 📄 Check out my professional profile at [[https://www.linkedin.com/in/ephraim-norbert-33777920b/](https://www.linkedin.com/in/ephraim-norbert-33777920b/)]
 
 </p>
 
 
-## 🤝 Connect With Me 
+### 🤝 Connect With Me 
 
 <p align="center">
   <a href="https://https://www.linkedin.com/in/ephraim-norbert-33777920b"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25> </a>
   <a href="mailto:norbert.ephraim0@gmail."><img src="https://img.shields.io/badge/gmail-%EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 
-  ## Skills
+ ### 🔭 Current Projects
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -54,6 +50,12 @@ Beyond the command line, I’m passionate about teaching. I’ve successfully tr
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 | Structured way to learn javascript from beginner to advance | <a href="https://github.com/Ephraim67/30daysjavascript_learning">Beginner javascript</a>|
 | Scripting (Python, Bash) for Security Automation | Security Automation Tools|
+
+### 📝 Latest Blog Posts
+
+- [Securing Kubernetes in Production](https://yourblog.com/kubernetes-security)
+- [Ansible for Secure Automation](https://yourblog.com/ansible-hardening)
+- [AWS Privilege Escalation Vectors](https://yourblog.com/aws-escalation)
 
 
 ## 🔧 Technologies and Tools
