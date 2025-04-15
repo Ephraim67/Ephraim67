@@ -57,6 +57,13 @@ Beyond the command line, I’m passionate about teaching. I’ve successfully tr
 - [Ansible for Secure Automation](https://yourblog.com/ansible-hardening)
 - [AWS Privilege Escalation Vectors](https://yourblog.com/aws-escalation)
 
+### 🧾 Certifications
+
+- 🏅 Offensive Security Certified Professional (OSCP) – In Progress
+- ☁️ AWS Certified Security – Specialty
+- 🧠 Certified Red Team Professional (CRTP)
+- 🎓 Cybersecurity & DevOps Bootcamp Instructor
+
 
 ## 🔧 Technologies and Tools
 
