@@ -89,9 +89,9 @@ Beyond the command line, I’m passionate about teaching. I’ve successfully tr
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=radical" alt="norbert github stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&layout=compact&theme=radical" alt="top languages" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ephraim67&theme=dark&show_icons=true&hide_border=true&count_private=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ephraim67&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
+![GitHub Stats](https://streak-stats.demolab.com?user=Ephraim67&theme=dark&hide_border=true)
 
