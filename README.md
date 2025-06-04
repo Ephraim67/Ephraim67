@@ -57,7 +57,7 @@ Beyond the command line, I’m passionate about teaching. I’ve successfully tr
 
 - [Securing Kubernetes in Production](https://yourblog.com/kubernetes-security)
 - [Ansible for Secure Automation](https://yourblog.com/ansible-hardening)
-- [AWS Privilege Escalation Vectors](https://yourblog.com/aws-escalation)
+- [Bruteforcing DVWA Step-by-step](https://ephraim67.medium.com/brute-forcing-in-dvwa-step-by-step-vulnerability-exploitation-walkthrough-10cabe386ef6)
 - [How Generative AI is Revolutionizing IT Development: A Game-Changer for Developers](https://medium.com/@Techspace4/how-generative-ai-is-revolutionizing-it-development-a-game-changer-for-developers-90082b2bfa1a).
 
 ### 🧾 Certifications
