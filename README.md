@@ -6,26 +6,23 @@
 <p> 
 
 ### 🔍 About Me
-I'm a highly skilled **Cybersecurity & DevOps Engineer** with a strong focus on cloud security, automation, and infrastructure as code. I bring hands-on experience with tools like **AWS, Kubernetes, Terraform, and Linux** to secure and streamline infrastructure at scale.
+Results-driven Software Engineer with hands-on experience building secure, scalable backend systems using Node.js, Express, and PostgreSQL/MongoDB. Skilled in API design, database architecture, and cloud deployments (AWS, Docker). Passionate about automation, DevOps, and implementing cybersecurity best practices across application lifecycles.
 
-I specialize in **penetration testing**, **cloud security strategies**, **incident response**, and **DevOps automation** building solutions that are as secure as they are efficient.
+I enjoy bridging the gap between **development and security**, ensuring that systems are not only functional and efficient but also resilient and compliant.  
 
-Beyond the command line, I’m passionate about teaching. I’ve successfully trained **100+ students** in cybersecurity, cloud, DevOps, and Linux through real-world labs and hands-on coaching who have sat for exams like ComptiA Network+, Security+ and CEH.
+Beyond code, I’m passionate about **mentorship**, having trained **100+ students** in cybersecurity, cloud, and DevOps through hands-on labs and real-world simulations.
 
 
-### 🧰 What I Do Best
 
-- **Cybersecurity** – Penetration testing, incident response, threat detection, and cloud security architecture
+### 🧰 Technical Skills
 
-- **Cloud & DevOps** – AWS solutions, Kubernetes orchestration, Terraform infrastructure, CI/CD pipelines
+- **Backend Development** – RESTful APIs, authentication, database design, and microservices using Node.js, Express, and NestJS.  
+- **Cybersecurity & DevSecOps** – Secure coding, vulnerability testing, CI/CD pipelines, and cloud security for AWS & Azure.  
+- **Cloud & Automation** – Infrastructure as Code (Terraform, Ansible), Docker containerization, AWS EC2/S3 deployments.  
+- **Mentorship & Education** – Teaching cybersecurity fundamentals, DevOps pipelines, and cloud computing with practical labs.  
 
-- **Linux & Automation** – Secure scripting (Bash/Python), system administration, Ansible deployment, server hardening
-
-- **Mentorship & Training** – Equipping the next-gen professionals with hands-on skills and real-world scenarios
-
-- 👨‍💻 Explore my projects at [https://github.com/Ephraim67?tab=repositories](https://github.com/Ephraim67?tab=repositories)
-
-- 📄 Check out my professional profile at [[https://www.linkedin.com/in/ephraim-norbert-33777920b/](https://www.linkedin.com/in/ephraim-norbert-33777920b/)]
+👨‍💻 Explore my projects → [github.com/Ephraim67?tab=repositories](https://github.com/Ephraim67?tab=repositories)  
+📄 Connect on LinkedIn → [linkedin.com/in/ephraim-norbert-33777920b](https://www.linkedin.com/in/ephraim-norbert-33777920b/)
 
 </p>
 
@@ -40,18 +37,15 @@ Beyond the command line, I’m passionate about teaching. I’ve successfully tr
 
  ### 🔭 Current Projects
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Network Management tools and Configuration          | <a href="https://github.com/Ephraim67/macchanger">Macchanger</a>|
-| Penetration Testing Tools (Metasploit, Burp Suite)          | <a href="https://github.com/Ephraim67/macchanger">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Forzebruta is a command-line tool for fuzzing URLs, useful for security testing and resource discovery. It supports multithreading, customizable headers, proxying, retry on failed requests, and status code filtering.         | <a href="https://github.com/Ephraim67/forzebruta">forzebruta</a>|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Red Team Simulation and Adversary Emulation   | Red Team Operations|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-| Structured way to learn javascript from beginner to advance | <a href="https://github.com/Ephraim67/30daysjavascript_learning">Beginner javascript</a>|
-| Scripting (Python, Bash) for Security Automation | Security Automation Tools|
+
+| Project | Description |
+|----------|--------------|
+| 🛡️ [Forzebruta](https://github.com/Ephraim67/forzebruta) | Command-line tool for URL fuzzing and resource discovery with multithreading, proxying, and retry logic. |
+| ⚙️ [Sorting Algorithms](https://github.com/Ephraim67/sorting_algorithms) | Educational repo showcasing multiple sorting algorithms with performance benchmarks and clean modular code. |
+| 💳 [FastlinkEdu Platform](https://fastlinkedu.com) | Fullstack student management system using Node.js, React, and MongoDB with AWS S3 cloud integration. |
+| 🧰 [Macchanger](https://github.com/Ephraim67/macchanger) | Network management tool for MAC address configuration and spoofing (educational cybersecurity utility). |
+| ☁️ SOC Automation Lab | Automated SOC workflows for alert correlation, incident response, and log analysis. |
+
 
 ### 📝 Latest Blog Posts
 
