@@ -43,6 +43,7 @@ Beyond code, I’m passionate about **mentorship**, having trained **100+ studen
 | 🛡️ [Forzebruta](https://github.com/Ephraim67/forzebruta) | Command-line tool for URL fuzzing and resource discovery with multithreading, proxying, and retry logic. |
 | ⚙️ [Sorting Algorithms](https://github.com/Ephraim67/sorting_algorithms) | Educational repo showcasing multiple sorting algorithms with performance benchmarks and clean modular code. |
 | 💳 [FastlinkEdu Platform](https://fastlinkedu.com) | Fullstack student management system using Node.js, React, and MongoDB with AWS S3 cloud integration. |
+| 💳 [Major Cas Woods and Interiors](https://www.interiorsbymajorcas.com/) | Developed scalable backend REST APIs with Node.js and Express, integrating third-party payment services with AWS S3 cloud integration. |
 | 🧰 [Macchanger](https://github.com/Ephraim67/macchanger) | Network management tool for MAC address configuration and spoofing (educational cybersecurity utility). |
 | ☁️ SOC Automation Lab | Automated SOC workflows for alert correlation, incident response, and log analysis. |
 
